@@ -1,0 +1,15 @@
+Licenčný súbor pre skript Police Vehicle Customization
+
+Autorské práva (c) [SammY NVRP] [2024]
+
+Týmto sa udeľuje povolenie na bezplatné používanie a distribúciu tohto softvéru a pridružených dokumentačných súborov (ďalej len „Softvér“) ktorejkoľvek osobe, ktorá získa kópiu tohto softvéru, za podmienok uvedených nižšie, a to bez akýchkoľvek obmedzení:
+
+1. Použitie: Užívatelia môžu používať tento Softvér na osobné účely.
+
+2. Distribúcia: Tento Softvér nesmie byť distribuovaný, predávaný ani poskytovaný tretím stranám bez výslovného písomného súhlasu autora.
+
+3. Modifikácia: Užívatelia môžu upravovať tento Softvér pre vlastné účely, ale nesmú distribuovať modifikované verzie.
+
+4. Predaj: Užívatelia nesmú predávať tento Softvér ani jeho modifikované verzie.
+
+5. Zodpovednosť: Softvér sa poskytuje "ako je", bez akýchkoľvek záruk, buď výslovných alebo implicitných, vrátane, ale nie obmedzené na záruky obchodovateľnosti, vhodnosti pre určitý účel a nezasahovania do práv tretích strán. V žiadnom prípade nebudú autori alebo držitelia autorských práv zodpovední za žiadne nároky, škody alebo inú zodpovednosť vyplývajúcu z používania, šírenia alebo iného spracovania Softvéru.
